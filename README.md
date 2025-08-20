@@ -1,7 +1,7 @@
 # Original-Manuscript---The-Whispers-Within
 This repository contains the archived original joint manuscript of [The Whispers Within], 
 **Authored by:**  
-Ronald Winter (pen name: Rory Winston) and Karen Kovacs (also known as Karen A. Kovacs)
+Karen Kovacs (also known as Karen A. Kovacs) and Ronald Winter (pen name: Rory Winston)
 
 **Key Dates:**  
 - Final manuscript completion: August 25, 2024  
