@@ -1,20 +1,22 @@
 # The Whispers Within — Archival Manuscript
 
 **Authors:**  
-Ronald Winter (writing as *Winona Rollins*)  
+Karen A. Kovacs  
 and  
-Karen A. Kovacs (also published as *Karen Lavery*)
+Ronald Winter (pen name: Rory Winston, also writing as Winona Rollins)
 
 ---
 
-### 📘 Overview
-This repository preserves the **complete development history** of *The Whispers Within*, a collaborative literary work blending anecdotal narrative and reflective essays on grief, resilience, and transformation.
+## 📘 Overview
+This repository preserves the **complete development history** of *The Whispers Within*, a collaborative literary work blending anecdotal narratives and reflective essays on grief, resilience, and transformation.
 
 It serves as an **archival record** documenting the original joint creation, authorship, and version history of the manuscript.
 
+This version of the manuscript is **unpolished and unedited**, reflecting the original development process. It is provided **free to read and download** for archival and educational purposes.
+
 ---
 
-### 🕰 Project Timeline
+## 🕰 Project Timeline
 - **Format Inception:** February 15, 2024  
 - **Anecdotal Revamp:** April 3, 2024  
 - **Writing Drafts:** May – August 2024  
@@ -22,14 +24,16 @@ It serves as an **archival record** documenting the original joint creation, aut
 - **Publisher Contract Signed:** October 21, 2024  
 - **Rights Reversion Letter (Austin Macauley Publishers LLC):** August 11, 2025  
 
-> “We can confirm that all rights to the above title have been reverted to you.  
-> Austin Macauley Publishers LLC wishes you all the best for the future and we hope that you continue with your writing.”  
-> — *Accounts Department, Austin Macauley Publishers LLC*
+---
+
+## 📌 Publication Context
+This manuscript was originally contracted for publication with **Austin Macauley Publishers** in 2024 under the pen name **Rory Winston** (legal name: Ronald Winter), alongside co-author **Karen A. Kovacs**.  
+The work is now being published under the pen name **Winona Rollins** (same person as Rory Winston) for public release while maintaining **full legal continuity and disclosure**.  
 
 ---
 
-### ⚖️ Rights & Authorship
-*The Whispers Within* was jointly created and developed by **Ronald Winter** and **Karen A. Kovacs**.  
+## ⚖️ Rights & Authorship
+*The Whispers Within* was jointly created and developed by **Karen A. Kovacs** and **Ronald Winter**.  
 Following the rights reversion confirmed by the publisher, both authors retain **equal and full ownership** of the work.
 
 This repository functions as an **authorship and provenance record**, including:
@@ -40,7 +44,7 @@ This repository functions as an **authorship and provenance record**, including:
 
 ---
 
-### 📂 Repository Purpose
+## 📂 Repository Purpose
 This archive exists to:
 - Preserve the **original manuscript and authorship credits** as agreed during creation  
 - Document the **evolution and co-authorship** of the text  
@@ -50,32 +54,25 @@ This is an **archival, non-commercial edition** of the work. It is provided sole
 
 ---
 
-### 🔒 Rights & License
+## 📄 Download the Manuscript
+You may view or download the original archival manuscript here:  
+[Click to download PDF](./The_Whispers_Within_Original.pdf)  
+
+Alternatively, you can host formal **releases** in GitHub’s Release section for versioning.
+
+---
+
+## 🔒 License
 This material is released under the  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
 
-For details, see: [LICENSE](./LICENSE)
-
-© 2024 Ronald Winter (writing as *Winona Rollins*) & Karen A. Kovacs.  
+© 2024 Karen A. Kovacs & Ronald Winter (writing as Rory Winston / Winona Rollins).  
 All rights reserved where applicable.
 
 ---
 
-### 📜 Legal & Reference Notes
-- Rights reversion confirmed August 11, 2025 (Austin Macauley Publishers LLC)  
-- Original publisher contract and correspondence are held privately for legal reference  
-- Public repository excludes private or sensitive documentation  
-- A clean version of the manuscript may be linked or cited in scholarly or archival contexts only  
+## 🖋 Maintained by
+Ronald Winter (Rory Winston / Winona Rollins)  
+Karen A. Kovacs  
 
----
-
-### 📍 Archival Purpose
-This repository is **not a commercial publication** and is **not to be sold or distributed** in print or digital form.  
-Its sole purpose is to document **authorship, timeline, and provenance** for *The Whispers Within*.
-
----
-
-### 🖋 Maintained by
-Ronald Winter (Winona Rollins)  
-📜 [Linked Manuscript Reference — Kindle Edition, 2025](https://www.amazon.com/dp/B0XXXXX)  
-📁 [Archival Repository](https://github.com/RonaldWinter/Original-Manuscript---The-Whispers-Within)
+This repository serves as a **public archival record** for authorship verification and historical documentation. It is **not a commercial publication** and is provided **free of charge**.
