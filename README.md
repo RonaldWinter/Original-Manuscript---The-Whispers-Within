@@ -56,8 +56,7 @@ This is an **archival, non-commercial edition** of the work. It is provided sole
 
 ## 📄 Download the Manuscript
 You may view or download the original archival manuscript here:  
-[Click to download PDF](https://github.com/RonaldWinter/Original-Manuscript---The-Whispers-Within/raw/main/Original%20Manuscript%20-%20The%20Whispers%20Within/The_Whispers_Within_Original.pdf)
-
+[Click to download PDF](https://github.com/RonaldWinter/Original-Manuscript---The-Whispers-Within/raw/main/The_Whispers_Within_Full_Manuscript_TOC_DONE.pdf)  
 ## 🔒 License
 This material is released under the  
 **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
