@@ -56,9 +56,7 @@ This is an **archival, non-commercial edition** of the work. It is provided sole
 
 ## 📄 Download the Manuscript
 You may view or download the original archival manuscript here:  
-[Click to download PDF](./The_Whispers_Within_Original.pdf)  
-
-Alternatively, you can host formal **releases** in GitHub’s Release section for versioning.
+[Click to download PDF](./The_Whispers_Within_Original.pdf?raw=true)
 
 ---
 
