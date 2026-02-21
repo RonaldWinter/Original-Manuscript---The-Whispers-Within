@@ -1,9 +1,13 @@
 # The Whispers Within — Archival Manuscript
 
 **Authors:**  
-Karen A. Kovacs  
-and  
+
 Ronald Winter (pen name: Rory Winston, also writing as Winona Rollins)
+
+and
+
+Karen A. Kovacs  
+ 
 
 ---
 
